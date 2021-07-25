@@ -1,0 +1,25 @@
+{
+  "name": "vue-readable-console-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vartemkin/vue-readable-console-log.git"
+  },
+  "keywords": [
+    "vue", "vue3", "console", "log", "readable"
+  ],
+  "author": "Vladislav Artemkin",
+  "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/vartemkin/vue-readable-console-log/issues"
+  },
+  "homepage": "https://github.com/vartemkin/vue-readable-console-log#readme"
+}
